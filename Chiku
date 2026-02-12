@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>For My Love ❤️</title>
+
+<style>
+body {
+  background: pink;
+  text-align: center;
+  font-family: Arial;
+}
+h1 { color: red; }
+</style>
+
+</head>
+
+<body>
+
+<h1>Happy Valentine’s Day Chiku ❤️</h1>
+<p>Dear My Love, you are the best thing in my life!</p>
+
+<img src="https://i.imgur.com/8Km9tLL.jpg" width="300">
+
+</body>
+</html>
